@@ -17,9 +17,13 @@ Copy code
 
 
 npm install react-simple-code-editor
+
 npm install -g create-react-app  # Only needed if you haven't installed create-react-app globally before
+
 npm install -g npm@latest  # Updates npm to the latest version globally
+
 npm install react-scripts
+
 
 Step 5: Update the package.json
 {
