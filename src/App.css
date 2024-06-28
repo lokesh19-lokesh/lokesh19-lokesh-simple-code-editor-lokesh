@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+.App-header {
+  background-color: #0365b5;
+  background-image: url('https://png.pngtree.com/background/20230422/original/pngtree-abstract-blue-background-free-download-wallpaper-hd-vector-picture-image_2454990.jpg');
+  background-size: 10; 
+  background-position: left; 
+  padding: 20px;
+  color: rgb(20, 19, 19);
+}
+
+
+
+
+
+
+textarea {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
