@@ -14,6 +14,8 @@ Step 4: Install dependencies
 In the terminal, execute the following commands one by one to install necessary dependencies:
 bash
 Copy code
+
+
 npm install react-simple-code-editor
 npm install -g create-react-app  # Only needed if you haven't installed create-react-app globally before
 npm install -g npm@latest  # Updates npm to the latest version globally
