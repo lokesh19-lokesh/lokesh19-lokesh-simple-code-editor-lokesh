@@ -66,3 +66,4 @@ Step 5: Update the package.json
 }
 
 Step 6: Update the package-lock.json
+package-lock.json code was there in package-lock.json file
